@@ -144,3 +144,10 @@ BUILD SUCCESSFUL in 7s
 
 
  * Your project - contact us to add it here!
+git clone https://github.com/yourname/reponame.git
+cd reponame
+echo "# test" >> test.txt
+git add .
+git commit -m "test commit"
+git push origin main
+ * 
